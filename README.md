@@ -3,7 +3,7 @@
 # JMR-stats
 Stats for Jelle's Marble Run
 
-This is a fan repository of Jelle's Marble Run Results.  
+This is a fan repository of Jelle's Marble Run Results.  Jelle's Marble Run (JML) is a marble sports competition started by [Dion](https://jellesmarbleruns.fandom.com/wiki/Dion_Bakker) and [Jelle Bakker](https://jellesmarbleruns.fandom.com/wiki/Jelle_Bakker).
 
 #### JMR Info:
  - [Jelle's Marble Runs Website](https://jellesmarbleruns.com/)
